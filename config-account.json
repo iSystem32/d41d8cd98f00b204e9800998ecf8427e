@@ -1,0 +1,19 @@
+{
+  "[FUNCTION]": "getGuard",
+  "[OPCODE]": "JUMP",
+  "contract": {
+    "address": "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
+  },
+  "caller": {
+    "address": "0x6661df610053aca8dd7058869111e07b5fab018d",
+    "balance": "124589070024979616838"
+  },
+  "output": {
+    "guard": "0x0000000000000000000000000000000000000000"
+  },
+  "gas": {
+    "gas_left": 433220,
+    "gas_used": 2142,
+    "total_gas_used": 54848
+  }
+}
